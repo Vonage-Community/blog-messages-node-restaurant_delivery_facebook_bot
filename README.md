@@ -2,6 +2,8 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)
+
+
 A simple demo app to demonstrate a Facebook Bot build with Vonage Messages API, LokiJS, and Wolt
 
 
