@@ -6,6 +6,8 @@
 
 A simple demo app to demonstrate a Facebook Bot build with Vonage Messages API, LokiJS, and Wolt
 
+A full step-by-step [tutorial](https://learn.vonage.com/blog/2021/11/10/restaurant-is-now-delivering-a-facebook-bot-in-node-js/?utm_source=twitter&utm_medium=github&utm_campaign=social_media) can be found here. 
+
 
 * [Requirements](#requirements)
 * [Installation](#installation)
