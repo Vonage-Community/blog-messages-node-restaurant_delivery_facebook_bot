@@ -1,4 +1,4 @@
-# Is It Delivering? A Facebook Bot built in NodeJS
+# Restaurant Is Now Delivering: a Facebook Bot in Node.js
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)
